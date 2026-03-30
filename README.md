@@ -51,13 +51,3 @@
 
 ---
 
-### 📊 Github Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirmalraaju&show_icons=true&theme=dark&hide_border=true" alt="nirmalraaju" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nirmalraaju&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="nirmalraaju" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nirmalraaju&theme=onedark&margin-w=15&no-bg=true" alt="nirmalraaju" />
-</p>
