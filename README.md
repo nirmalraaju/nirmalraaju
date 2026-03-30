@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **AI-driven web applications**
 - 🌱 I’m currently learning **System Design & Deep Learning**
 - 💬 Ask me about **React, Java, or Machine Learning**
-- 📫 Reach me on LeetCode: <a href="https://www.leetcode.com/nirmalraaju_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nirmalraaju_" height="20" width="25" /></a>
+- 📫 Reach me on LeetCode: <a href="https://www.leetcode.com/nirmalraaju_mb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nirmalraaju_" height="20" width="25" /></a>
 
 ---
 
